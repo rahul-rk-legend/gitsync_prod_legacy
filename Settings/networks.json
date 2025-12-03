@@ -1,0 +1,37 @@
+[
+    {
+        "address": "192.168.0.1/8",
+        "name": "Testing Prod Legacy 1",
+        "priority": 1,
+        "environments": [
+            "B",
+            "C"
+        ],
+        "id": 1,
+        "creationTimeUnixTimeInMs": 1764753833777,
+        "modificationTimeUnixTimeInMs": 1764753833777
+    },
+    {
+        "address": "192.168.0.1/16",
+        "name": "Testing Prod Legacy 2",
+        "priority": 3,
+        "environments": [
+            "A",
+            "Default Environment"
+        ],
+        "id": 2,
+        "creationTimeUnixTimeInMs": 1764753849775,
+        "modificationTimeUnixTimeInMs": 1764753849775
+    },
+    {
+        "address": "192.168.0.1/24",
+        "name": "Testing Prod Legacy 3",
+        "priority": 5,
+        "environments": [
+            "*"
+        ],
+        "id": 3,
+        "creationTimeUnixTimeInMs": 1764753874134,
+        "modificationTimeUnixTimeInMs": 1764753874134
+    }
+]
