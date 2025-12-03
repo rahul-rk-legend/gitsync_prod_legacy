@@ -1,0 +1,18 @@
+[
+    {
+        "id": 2,
+        "name": "Prod_Legacy_Dynamic_Env_2",
+        "type": 0,
+        "defaultValue": "Testing Legacy 2",
+        "optionalValues": null
+    },
+    {
+        "id": 1,
+        "name": "Prod_Legacy_Dynamic_Env_1",
+        "type": 1,
+        "defaultValue": "Testing Legacy 1",
+        "optionalValues": [
+            "Testing Legacy 1"
+        ]
+    }
+]
