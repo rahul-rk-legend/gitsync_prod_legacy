@@ -1,5 +1,71 @@
 [
     {
+        "environment": "A",
+        "integrationIdentifier": "SampleIntegration",
+        "settings": {
+            "instanceDescription": null,
+            "instanceName": "SampleIntegration_A",
+            "settings": [
+                {
+                    "integrationIdentifier": "SampleIntegration",
+                    "propertyName": "API Root",
+                    "propertyDescription": "API Root for the integration. In this case, we are integrating with \"api.vatcomply.com\" service.",
+                    "propertyDisplayName": "API Root",
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "value": "https://api.vatcomply.com",
+                    "integrationInstance": "8f065013-4c5e-41ab-b02a-a05a6de23a4f",
+                    "environment": null,
+                    "id": 66,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                },
+                {
+                    "integrationIdentifier": "SampleIntegration",
+                    "propertyName": "Password Field",
+                    "propertyDescription": "Example of API password field parameter. API doesn't require authentication, this parameter is just for showcase purpose.",
+                    "propertyDisplayName": "Password Field",
+                    "propertyType": 3,
+                    "isMandatory": false,
+                    "value": "***************",
+                    "integrationInstance": "8f065013-4c5e-41ab-b02a-a05a6de23a4f",
+                    "environment": null,
+                    "id": 67,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                },
+                {
+                    "integrationIdentifier": "SampleIntegration",
+                    "propertyName": "Verify SSL",
+                    "propertyDescription": "If selected, the integration validates the SSL certificate when connecting to API Service. Selected by default.",
+                    "propertyDisplayName": "Verify SSL",
+                    "propertyType": 0,
+                    "isMandatory": false,
+                    "value": "False",
+                    "integrationInstance": "8f065013-4c5e-41ab-b02a-a05a6de23a4f",
+                    "environment": null,
+                    "id": 68,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                },
+                {
+                    "integrationIdentifier": "SampleIntegration",
+                    "propertyName": "AgentIdentifier",
+                    "propertyDescription": null,
+                    "propertyDisplayName": "Agent",
+                    "propertyType": 9,
+                    "isMandatory": false,
+                    "value": null,
+                    "integrationInstance": "8f065013-4c5e-41ab-b02a-a05a6de23a4f",
+                    "environment": null,
+                    "id": 69,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                }
+            ]
+        }
+    },
+    {
         "environment": "B",
         "integrationIdentifier": "SampleIntegration",
         "settings": {
