@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "Testing Prod Legacy 1",
+        "alias": null,
+        "environments": [
+            "A",
+            "C"
+        ],
+        "id": 1,
+        "creationTimeUnixTimeInMs": 1764753884506,
+        "modificationTimeUnixTimeInMs": 1764753884506
+    },
+    {
+        "domain": "Testing Prod Legacy 2",
+        "alias": null,
+        "environments": [
+            "B",
+            "Default Environment"
+        ],
+        "id": 2,
+        "creationTimeUnixTimeInMs": 1764753893146,
+        "modificationTimeUnixTimeInMs": 1764753893146
+    },
+    {
+        "domain": "Testing Prod Legacy 3",
+        "alias": null,
+        "environments": [
+            "*"
+        ],
+        "id": 3,
+        "creationTimeUnixTimeInMs": 1764753921334,
+        "modificationTimeUnixTimeInMs": 1764753921334
+    }
+]
