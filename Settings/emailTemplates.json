@@ -1,0 +1,43 @@
+[
+    {
+        "type": 0,
+        "name": "Testing Prod Legacy 1",
+        "content": "Testing Prod Legacy 1",
+        "creatorUserName": "0283c18a-d9f4-438b-bdf0-b3adaa7236e3",
+        "forMigration": false,
+        "environments": [
+            "B",
+            "C"
+        ],
+        "id": 1,
+        "creationTimeUnixTimeInMs": 1764754003482,
+        "modificationTimeUnixTimeInMs": 1764754003482
+    },
+    {
+        "type": 0,
+        "name": "Testing Prod Legacy 2",
+        "content": "Testing Prod Legacy 2",
+        "creatorUserName": "0283c18a-d9f4-438b-bdf0-b3adaa7236e3",
+        "forMigration": false,
+        "environments": [
+            "A",
+            "Default Environment"
+        ],
+        "id": 2,
+        "creationTimeUnixTimeInMs": 1764754013199,
+        "modificationTimeUnixTimeInMs": 1764754013199
+    },
+    {
+        "type": 0,
+        "name": "Testing Prod Legacy 3",
+        "content": "Testing Prod Legacy 3",
+        "creatorUserName": "0283c18a-d9f4-438b-bdf0-b3adaa7236e3",
+        "forMigration": false,
+        "environments": [
+            "*"
+        ],
+        "id": 3,
+        "creationTimeUnixTimeInMs": 1764754027882,
+        "modificationTimeUnixTimeInMs": 1764754027882
+    }
+]
