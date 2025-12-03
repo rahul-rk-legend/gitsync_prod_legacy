@@ -1,0 +1,28 @@
+[
+    {
+        "value": "Windows:AccessDisabledAccounts",
+        "name": "Testing Prod Legacy 1",
+        "propertyName": "",
+        "priority": 3,
+        "isPotentialCaseName": false,
+        "environments": [],
+        "type": 0,
+        "compareType": 2,
+        "id": 3,
+        "creationTimeUnixTimeInMs": 1764749713299,
+        "modificationTimeUnixTimeInMs": 1764753587794
+    },
+    {
+        "value": "Testing",
+        "name": "Testing Prod Legacy 2",
+        "propertyName": "",
+        "priority": 1,
+        "isPotentialCaseName": false,
+        "environments": [],
+        "type": 0,
+        "compareType": 2,
+        "id": 5,
+        "creationTimeUnixTimeInMs": 1764751677914,
+        "modificationTimeUnixTimeInMs": 1764753594055
+    }
+]
