@@ -84,6 +84,7 @@ Python Version - 3
 |google_auth-2.36.0-py2.py3-none-any.whl|
 |uritemplate-4.1.1-py2.py3-none-any.whl|
 |pyasn1-0.6.1-py3-none-any.whl|
+|setuptools-80.9.0-py3-none-any.whl
 
 
 ## Actions
