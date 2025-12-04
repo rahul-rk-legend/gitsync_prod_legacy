@@ -25,6 +25,7 @@ Python Version - 3
 #### Dependencies
 | |
 |-|
+|setuptools-80.9.0-py3-none-any.whl|
 |RTFDE-0.1.2-py3-none-any.whl|
 |cachetools-5.5.0-py3-none-any.whl|
 |rsa-4.9-py3-none-any.whl|
@@ -84,7 +85,6 @@ Python Version - 3
 |google_auth-2.36.0-py2.py3-none-any.whl|
 |uritemplate-4.1.1-py2.py3-none-any.whl|
 |pyasn1-0.6.1-py3-none-any.whl|
-|setuptools-80.9.0-py3-none-any.whl|
 
 
 ## Actions
